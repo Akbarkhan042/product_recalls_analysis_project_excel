@@ -63,6 +63,16 @@ When we were done with our required analysis we visualized the results of the pi
 - Simple charts like a combo chart having 2 field as an Area chart and Line chart was used to display the trent over time.
 - Pie chart was used to dipict part to whole relation.
 - Bar charts was used to show the manufacturers with most recalls & potentially affected consumers and the most frequent cause for recall.
+- A minimal design was chosen with very suttle colors in order to not make the dashboard busy.
+- Popping colors was primarily used to guide viewer's attention to are of interest.
+
+  **Check out the Dashboard in action in the following Video.**
+
+
+https://github.com/Akbarkhan042/product_recalls_analysis_project_excel/assets/156647226/6d891d17-1af9-4f01-87ca-2d9de8f2968b
+
+
+  
 
 
 
