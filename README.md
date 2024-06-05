@@ -76,7 +76,15 @@ When we were done with our required analysis we visualized the results of the pi
 https://github.com/Akbarkhan042/product_recalls_analysis_project_excel/assets/156647226/6d891d17-1af9-4f01-87ca-2d9de8f2968b
 
 
-  
+## FINDINGS
+
+Upon the completion of our data analysis we have the following findings.
+
+1. The number of recall and potentially affected consumers follow an overall upwards trend over the years.
+2. Automobile related recalls are the biggest category while *Child-seat* related recalls are the smallest amounting to **1%** of total but in my opinion that's still a lot.
+3. Thye top-5 manufacturers with the most number of recalls made are all in the automobile sector of which top-3 are USA based & 4th is Germany based. This high number of recalls by automobile companies is in part due to the huge number of components used in them and the supplychain used where components comes fro tier1, tier2, tier3 or even more suppliers making quality control a daunting task.
+4. The top-3 spots for the manufacturers with the most number of potentially affected consumers are again taken by automobile companies. At 4th place we have **TAKATA**- a Japanese manufacturer of *airbags* very infamous for their faulty airbags that resulted in a recall of approx 3.6 million vehicles.
+5. The top-5 most frequent cause for recalls was equipment, electrical system, steering, suspension and service brake related issues.
 
 
 
