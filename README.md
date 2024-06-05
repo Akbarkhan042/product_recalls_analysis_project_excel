@@ -17,11 +17,19 @@ Consumers play a critical role in product recalls by responding to recall notifi
 
 ## TABLE OF CONTENT
 [PROJECT OBJECTIVE](#project-objective)
+
 [PROJECT WORKFLOW](#project-workflow)
+
 [DATA CLEANING](#data-cleaning)
+
 [DATA TRANSFORMATION](#data-transformation)
+
 [DATA ANALYSIS](#data-analysis)
+
 [DATA VISUALIZATION](#data-visualization)
+
+[Dashboard in action Video.](#dashboard-in-action-video)
+
 [FINDINGS](#findings)
 
 
@@ -83,7 +91,7 @@ When we were done with our required analysis we visualized the results of the pi
 
   
 
-## **Check out the Dashboard in action in the following Video.**
+## **Dashboard in action Video.**
 
 
 
