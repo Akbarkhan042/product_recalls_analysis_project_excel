@@ -13,6 +13,12 @@ This communication is crucial for ensuring that the product is properly disposed
 
 ![OIP](https://github.com/Akbarkhan042/product_recalls_analysis_project_excel/assets/156647226/b7d0da7e-7dc7-42f2-a527-514d46036a66)
 
+## PROJECT OBJECTIVE
+
+The objective of this data analysis project is to analyze the dataset having records about all the products recalls made by various manufacturers across different industries, visualize the results and create a dashboard of the results witha filter and interactivity.
+
+The various Questions were explored like what is the  yearly trend of recalls and potentially affected consumers, types of recalls made, the manufacturers that made the most recalls, what is the most ferquent cause for recall etc.
+
 ### Dataset
 The dataset contains recall records made by different manufacturers for the year 1994 through 2022.
 
