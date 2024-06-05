@@ -8,10 +8,11 @@ Recalls involve several key components, including the development of a recall st
 
 This communication is crucial for ensuring that the product is properly disposed of or corrected to prevent further harm.
 
-#### Consumers play a critical role in product recalls by responding to recall notifications and taking appropriate actions, such as returning or disposing of the recalled products.
-
 
 ![OIP](https://github.com/Akbarkhan042/product_recalls_analysis_project_excel/assets/156647226/b7d0da7e-7dc7-42f2-a527-514d46036a66)
+
+
+Consumers play a critical role in product recalls by responding to recall notifications and taking appropriate actions, such as returning or disposing of the recalled products.
 
 ## PROJECT OBJECTIVE
 
