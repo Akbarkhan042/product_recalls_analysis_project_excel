@@ -50,13 +50,19 @@ We extracted year, month number and month name from the data column. For this pu
 
 ## DATA ANALYSIS
 
-When the data cleaning and data transformation were complete we loaded our data to Pivot Table in ouder to summarize, aggregate and analyze our data.
+When the data cleaning and data transformation were complete we loaded the dataset to Pivot Table in order to summarize, aggregate and analyze our data.
 
-We created different pivot tables to analyze different aspects of our dataset. We sorted and filtered our pivot tables too in order to arrange them in decending order and extract the top-10 values only.
+We created different pivot tables to analyze different aspects of our dataset. We sorted and filtered the pivot tables too in order to arrange them in decending order and extract the top-10 values only.
 
 The data field settings was utelized to get our intended aggregation like sum, average, count etc for the numerical values and to remane the columns in pivot tables accordingly.
 
 ## DATA VISUALIZATION
+
+When we were done with our required analysis we visualized the results of the pivot tables using the Pivot Charts.
+
+- Simple charts like a combo chart having 2 field as an Area chart and Line chart was used to display the trent over time.
+- Pie chart was used to dipict part to whole relation.
+- Bar charts was used to show the manufacturers with most recalls & potentially affected consumers and the most frequent cause for recall.
 
 
 
