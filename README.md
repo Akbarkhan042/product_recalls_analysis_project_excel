@@ -45,4 +45,20 @@ The dataset also contained some column that were nor need for the analysis so we
 ### Data Transformation
 
 Not much of data transformation was required in this project.
-We extracted year, month number and month name from the data column. For this purpose the Date tool from the Add Column tab was used because aour aim was to add more columns to the dataset.
+We extracted year, month number and month name from the data column. For this purpose the Date tool from the Add Column tab was used because our aim was to add more columns to the dataset.
+
+
+## DATA ANALYSIS
+
+When the data cleaning and data transformation were complete we loaded our data to Pivot Table in ouder to summarize, aggregate and analyze our data.
+
+We created different pivot tables to analyze different aspects of our dataset. We sorted and filtered our pivot tables too in order to arrange them in decending order and extract the top-10 values only.
+
+The data field settings was utelized to get our intended aggregation like sum, average, count etc for the numerical values and to remane the columns in pivot tables accordingly.
+
+## DATA VISUALIZATION
+
+
+
+
+
