@@ -17,6 +17,16 @@ Consumers play a critical role in product recalls by responding to recall notifi
 
 ## TABLE OF CONTENT
 [PROJECT OBJECTIVE](#project-objective)
+[PROJECT WORKFLOW](#project-workflow)
+[DATA CLEANING](#data-cleaning)
+[DATA TRANSFORMATION](#data-transformation)
+[DATA ANALYSIS](#data-analysis)
+[DATA VISUALIZATION](#data-visualization)
+[FINDINGS](#findings)
+
+
+
+
 
 ## PROJECT OBJECTIVE
 
@@ -41,13 +51,13 @@ Different Excel tools that were utelised in this project:
 
 The project workflow consisted of Data Import to Excel via the Power Query. Once the data was imported to power query the data was profiled for errors, nulls, empty records using various tool fror data profiling. Upon the completion of data profiling we proceeded to data cleaning and transformations.
 
-### Data Cleaning
+## DATA CLEANING
 
 As this dataset comes from Kaggle it was fairly clean and required very less cleaning. The data had soe nulls which was replaced to "unknown" using the replace value tool of power query. The data had some capitalization issue therefore we used textual tool like proper to getit into proper format.
 
 The dataset also contained some column that were nor need for the analysis so we removed those using the remove column tool.
 
-### Data Transformation
+## DATA TRANSFORMATION
 
 Not much of data transformation was required in this project.
 We extracted year, month number and month name from the data column. For this purpose the Date tool from the Add Column tab was used because our aim was to add more columns to the dataset.
@@ -73,7 +83,7 @@ When we were done with our required analysis we visualized the results of the pi
 
   
 
-**Check out the Dashboard in action in the following Video.**
+## **Check out the Dashboard in action in the following Video.**
 
 
 
