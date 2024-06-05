@@ -32,3 +32,12 @@ Different Excel tools that were utelised in this project:
 - Pivot Table  : For data summarization & aggregation and analysis.
 - Pivot Chart  : For visualization.
 
+## PROJECT WORKFLOW
+
+The project workflow consisted of Data Import to Excel via the Power Query. Once the data was imported to power query the data was profiled for errors, nulls, empty records using various tool fror data profiling. Upon the completion of data profiling we proceeded to data cleaning and transformations.
+
+### Data Cleaning
+
+As this dataset comes from Kaggle it was fairly clean and required very less cleaning. The data had soe nulls which was replaced to "unknown" using the replace value tool of power query. The data had some capitalization issue therefore we used textual tool like proper to getit into proper format.
+
+The dataset also contained some column that were nor need for the analysis so we removed those using the remove column tool.
