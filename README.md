@@ -66,7 +66,10 @@ When we were done with our required analysis we visualized the results of the pi
 - A minimal design was chosen with very suttle colors in order to not make the dashboard busy.
 - Popping colors was primarily used to guide viewer's attention to are of interest.
 
-  **Check out the Dashboard in action in the following Video.**
+  
+
+**Check out the Dashboard in action in the following Video.**
+
 
 
 https://github.com/Akbarkhan042/product_recalls_analysis_project_excel/assets/156647226/6d891d17-1af9-4f01-87ca-2d9de8f2968b
