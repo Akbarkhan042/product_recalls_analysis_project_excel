@@ -14,6 +14,10 @@ This communication is crucial for ensuring that the product is properly disposed
 
 Consumers play a critical role in product recalls by responding to recall notifications and taking appropriate actions, such as returning or disposing of the recalled products.
 
+
+## TABLE OF CONTENT
+[PROJECT OBJECTIVE](#project-objective)
+
 ## PROJECT OBJECTIVE
 
 The objective of this data analysis project is to analyze the dataset having records about all the products recalls made by various manufacturers across different industries, visualize the results and create a dashboard of the results witha filter and interactivity.
