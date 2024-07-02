@@ -28,7 +28,7 @@ Consumers play a critical role in product recalls by responding to recall notifi
 
 [DATA VISUALIZATION](#data-visualization)
 
-[DASHBOARD IN ACTION VIDEO](#dashboard-in-action-video)
+[DASHBOARD VIDEO SNIPPET](#dashboard-video-snippet)
 
 [FINDINGS](#findings)
 
