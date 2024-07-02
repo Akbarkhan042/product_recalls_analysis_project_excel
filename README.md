@@ -91,7 +91,7 @@ When we were done with our required analysis we visualized the results of the pi
 
   
 
-## **DASHBOARD IN ACTION VIDEO**
+## **DASHBOARD VIDEO SNIPPET**
 
 
 
