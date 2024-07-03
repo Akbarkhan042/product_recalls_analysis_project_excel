@@ -47,7 +47,7 @@ The dataset contains recall records made by different manufacturers for the year
 
 We are working with 11 columns & 26590 rows of data.
 
-### Tool
+### Tools
 This project was completed in MS Excel only. From data import to data profiling, cleaning and transformation was all performed in Excel. Then after the dataset was analysed, visuals were created on the basis of those analysis and a dashboard was created with interactivity.
 
 Different Excel tools that were utelised in this project:
@@ -61,7 +61,7 @@ The project workflow consisted of Data Import to Excel via the Power Query. Once
 
 ## DATA CLEANING
 
-As this dataset comes from Kaggle it was fairly clean and required very less cleaning. The data had soe nulls which was replaced to "unknown" using the replace value tool of power query. The data had some capitalization issue therefore we used textual tool like proper to getit into proper format.
+As this dataset comes from Kaggle it was fairly clean and required very less cleaning. The data had some nulls which were replaced to "unknown" using the replace value tool of power query. The data had some capitalization issue therefore we used textual tool like proper to get it into proper format.
 
 The dataset also contained some column that were nor need for the analysis so we removed those using the remove column tool.
 
