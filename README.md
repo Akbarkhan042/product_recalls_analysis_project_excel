@@ -98,6 +98,9 @@ When we were done with our required analysis we visualized the results of the pi
 https://github.com/Akbarkhan042/product_recalls_analysis_project_excel/assets/156647226/6d891d17-1af9-4f01-87ca-2d9de8f2968b
 
 
+## [COMPLETE VIDEO TO ANALYSIS & DASHBOARDING](https://youtu.be/J0spVMG0zFE)
+
+
 ## FINDINGS
 
 Upon the completion of our data analysis we have the following findings.
