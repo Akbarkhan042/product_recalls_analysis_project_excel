@@ -99,6 +99,7 @@ https://github.com/Akbarkhan042/product_recalls_analysis_project_excel/assets/15
 
 
 ## [COMPLETE VIDEO TO ANALYSIS & DASHBOARDING](https://youtu.be/J0spVMG0zFE)
+Click on the above link to check out the complete guide to the analysis & dashboarding process.
 
 
 ## FINDINGS
